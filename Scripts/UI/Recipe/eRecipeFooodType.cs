@@ -1,0 +1,23 @@
+public enum Recipes
+{
+    Egg,
+    HpPotion,
+    MpPotion,
+    Sausage,
+    Lasagne,
+    SardineCan,
+    PoisonPotion,
+    Ham,
+    MushroomPizza,
+    ChocolateCake,
+    Ratatouille,
+    SpringRoll,
+    Tiramisu,
+    EnergyDrink,
+    CookedChicken,
+    Sandwich,
+    Cocktail,
+    Paprika,
+    Candy,
+    MusslePot
+}
